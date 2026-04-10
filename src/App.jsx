@@ -177,7 +177,7 @@ function App() {
       <AppBar position="static">
         <Toolbar>
           <Typography sx={{ fontWeight: 700 }}>
-            🧪 Biodigester Control System
+            🧪 Biodigester Monitoring System
           </Typography>
 
           <Box sx={{ ml: "auto", display: "flex", gap: 2, alignItems: "center" }}>
